@@ -84,26 +84,18 @@ User Input ➡ Agentic Graph ➡ Clarifying Questions ➡ Job Description Draft 
 
 If given additional time and resources, I would:
 
-- **Integrate Real Tools**  
-  Connect to real-world services for email sending, Google Search, and salary benchmarking.
-
 - **Enhance Memory**  
   Replace JSON memory with a more scalable database (e.g., SQLite or Redis) or LangChain’s memory system.
-
-- **Add User Authentication**  
-  Implement session-based user accounts so multiple HR professionals can use the app concurrently with isolated memory.
 
 - **Implement Analytics**  
   Track user interactions, most requested roles, and common salary ranges to provide useful insights.
 
 - **Improve UI/UX**  
-  Develop a more advanced frontend (possibly React or Next.js) for a modern user experience beyond Streamlit.
+  Develop a more advanced frontend ( React ) for a modern user experience beyond Streamlit.
 
 - **Deploy Online**  
   Host the app using Streamlit Community Cloud or a cloud service like AWS or GCP for easy access.
 
-- **Add LLM Function Calling**  
-  Enhance multi-step reasoning by incorporating OpenAI Function Calling or LangGraph’s advanced tool-calling patterns.
 
 ---
 
