@@ -16,7 +16,7 @@ The agent responds dynamically by asking clarifying questions, gathering require
 ---
 ## Walkthrough Demo
 
-[App Walkthrough](assets/walkthrough.gif)
+[App Walkthrough](assets/Walkthrough.gif)
 
 ---
 
