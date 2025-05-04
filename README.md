@@ -6,8 +6,7 @@ Author: *Armaghan Abtahi*
 
 ## Overview
 
-**Agentic HR Planner** is an Agentic AI application designed to assist HR professionals in planning startup hiring processes.  
-It transforms a simple user prompt into a structured multi-step interaction that produces job descriptions, hiring plans, and actionable checklists — all powered by LangGraph and LLM reasoning.
+**Agentic HR Planner** is an Agentic AI application designed to assist HR professionals in planning startup hiring processes.  It transforms a simple user prompt into a structured multi-step interaction that produces job descriptions, hiring plans, and actionable checklists, all powered by LangGraph and LLM reasoning.
 
 > Example prompt:_  
 > “I need to hire a founding engineer and a GenAI intern. Can you help?”
@@ -27,6 +26,7 @@ Watch this video explaining the architecture and design decisions:
 
 [Loom Video Link](https://www.loom.com/share/a67e77121235481f9545910558f09e5f?sid=aefeb9bb-4190-46e2-9280-cd96a54ece44)
 
+---
 ## Tech Stack
 
 | Component         | Technology |
@@ -39,11 +39,11 @@ Watch this video explaining the architecture and design decisions:
 | Optional Tools    | (Simulated) Email writer, Checklist builder, Salary Estimate|
 
 ---
+## Architecture
 
-##  Architecture
+User Input ➡ Agentic Graph ➡ Clarifying Questions ➡ Job Description Draft ➡ Hiring Checklist ➡ Final Plan
 
-```plaintext
-User Input -> Agentic Graph -> Clarifying Questions -> Job Description Draft -> Hiring Checklist -> Final Plan
+---
 
 ## Key Components
 
