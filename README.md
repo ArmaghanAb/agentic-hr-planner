@@ -74,6 +74,10 @@ User Input ➡ Agentic Graph ➡ Clarifying Questions ➡ Job Description Draft 
 - **Code Modularity**  
   Broke down the app into clearly defined files — `graph.py`, `nodes.py`, `schema.py`, and `app.py` — to ensure maintainability and scalability.
 
+- **Reset Functionality**  
+  Added a reset button to clear session memory easily, giving users a smooth way to restart the hiring process without refreshing or manual resets.
+
+
 ---
 
 ## What I'd Improve with More Time
