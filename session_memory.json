@@ -1,0 +1,9 @@
+{
+  "question": "I need to hire a founding engineer and a GenAI intern. Can you help?\"",
+  "roles": [
+    "founding engineer",
+    "GenAI intern"
+  ],
+  "budget": "$180K",
+  "timeline": " Within 3 months"
+}
